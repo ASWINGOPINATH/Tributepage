@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: burlywood;
+}
+
+header {
+    background-color:rgb(113, 180, 19);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.image-container {
+    text-align: center;
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.tribute-content {
+    margin-top: 1.5rem;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: rgb(113, 180, 19);
+    color: white;
+}
